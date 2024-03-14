@@ -1,5 +1,5 @@
 # AgriMartBot - AI Powered Chatbot
-Artificial Intelligence - Chatbot Development
+Artificial Intelligence - Chatbot Development Project
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
