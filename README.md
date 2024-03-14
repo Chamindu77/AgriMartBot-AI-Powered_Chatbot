@@ -1,4 +1,4 @@
-# AgriMartBot-AI Powered Chatbot
+# AgriMartBot - AI Powered Chatbot
 Artificial Intelligence - Chatbot Development
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
