@@ -1,0 +1,145 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hello, welcome to our agriculture website!",
+        "Hi there, how can I assist you today?",
+        "Hello, how may I help you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later! Take care!",
+        "Bye! Come back soon!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["You're welcome!", "Glad I could help!", "Anytime!"]
+    },
+    {
+      "tag": "creator",
+      "patterns": [
+        "what is the name of your developers",
+        "what is the name of your creators",
+        "what is the name of the developers",
+        "what is the name of the creators",
+        "who created you",
+        "your developers",
+        "your creators",
+        "who are your developers",
+        "developers",
+        "you are made by",
+        "you are made by whom",
+        "who created you",
+        "who create you",
+        "creators",
+        "who made you",
+        "who designed you"
+      ],
+      "responses": [
+        "Team of CropXchange",
+        "cropXchange AI team"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "name",
+        "your name",
+        "do you have a name",
+        "what are you called",
+        "what is your name",
+        "what should I call you",
+        "whats your name?",
+        "what are you",
+        "who are you",
+        "who is this",
+        "what am i chatting to",
+        "who am i taking to",
+        "what are you"
+      ],
+      "responses": [
+        "You can call me CropXchange AI Bot.",
+        "I'm AgriMartBot ",
+        "I am a Chatbot.",
+        "I am your helper"
+      ]
+    },
+    {
+      "tag": "create_account",
+      "patterns": [
+        "How can I create an account?"
+      ],
+      "responses": [
+        "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process."        ]
+    },
+    {
+      "tag": "payment_methods",
+      "patterns": [
+        "What payment methods do you accept?",
+        "payment methods"
+      ],
+      "responses": [
+        "We accept major credit cards, debit cards, and PayPal as payment methods for online orders.",
+        "credit cards,debit cards, and PayPal as payment methods "
+      ]
+    },
+    {
+      "tag": "buy_item",
+      "patterns": [
+        "Buy item",
+        "Purchase product",
+        "Place an order"
+      ],
+      "responses": [
+        "Great! Which item would you like to purchase?"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "Delivery service",
+        "Delivery options",
+        "Transportation"
+      ],
+      "responses": [
+        "Our delivery service is available. What's your location?"
+      ]
+    },
+    {
+      "tag": "support",
+      "patterns": [
+        "Need assistance",
+        "Help required",
+        "Support"
+      ],
+      "responses": [
+        "Of course, how can I assist you?"
+      ]
+    },
+    {
+      "tag": "joke",
+      "patterns": [
+        "Tell me a joke!",
+        "Joke time",
+        "Something funny"
+      ],
+      "responses": [
+        "Sure! Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "Here's one: Why couldn't the bicycle stand up by itself? It was two-tired!"
+      ]
+    }
+  ]
+}
