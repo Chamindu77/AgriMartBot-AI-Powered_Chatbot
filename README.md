@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-
+- [Some Images](#some-images)
 
 ---
 
@@ -35,9 +35,23 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - HTML/CSS/JavaScript
 - JSON
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+---
 
+## Some Images 
 
+<div style="display: flex; justify-content: space-between;">
+<div>
+  
+  ![Screenshot 2024-03-15 233853](https://github.com/Chamindu77/AgriMartBot-AI-Powered_Chatbot/assets/117502200/5584b016-0365-40a6-a76a-7b246e1be51b)
 
+</div>
 
+<div>
+  
+![Screenshot 2024-03-15 234115](https://github.com/Chamindu77/AgriMartBot-AI-Powered_Chatbot/assets/117502200/b3c47644-23a8-462e-99ca-1f0be8a65f40)
+
+</div>
+
+</div>
+
+---
